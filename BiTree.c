@@ -23,6 +23,7 @@ void PostOrder(BiTree t);
 void InitTree(BiTree *t, int x, int r); //满二叉树 r为1 r用来赋值data
 void ptp(int x, int pre[x], int in[x], BiTNode **f);
 int Locate(int t, int x[]);
+//另一种还原二叉树的算法可见于exam5.cpp
 void prein_to_post(int x, int pre[x], int in[x], BiTNode *f); //实现前序 中序转为后序
 void LevelOrder(BiTree t);									  //层次遍历
 
