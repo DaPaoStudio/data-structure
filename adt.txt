@@ -56,3 +56,7 @@ MSort.c 归并排序
 Sort.c 六大排序 299
 
 stltest.cpp 学习cpp stl
+
+exam
+exam.doc 整理了XDU某年上机题与19年题目
+exam1.cpp exam2.cpp exam3.cpp exam4.c exam5.cpp见上述文件
